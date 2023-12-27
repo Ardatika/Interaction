@@ -1,0 +1,3 @@
+[submodule "nav-one"]
+	path = nav-one
+	url = https://github.com/Ardatika/networking_ReactNative.git
